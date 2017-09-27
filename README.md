@@ -2,7 +2,7 @@
 ## Usage
 
 ```js
-import colors from 'color-constants';
+const colors = require('color-constants').colors;
 
 console.log(`${colors.fgRed}This text is ${colors.bright}red${colors.reset}`);
 ```
