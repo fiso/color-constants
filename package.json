@@ -4,5 +4,6 @@
   "description": "Provides constants for use when colorizing terminal output",
   "main": "color-constants.js",
   "author": "Filip Haglund",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "https://github.com/fiso/color-constants"
 }
